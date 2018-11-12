@@ -7,6 +7,7 @@
         echo json_encode(array("3" => "Beijing", "4" => "Shanhay"));
 
     }
+// stex comment a avelacel, ete cloneՈՒՄ tesar, uremn ok a
 
 
 ?>
